@@ -9,6 +9,11 @@ let workDay = {
     "3 PM": "",
     "4 PM": "",
     "5 PM": "",
+    "6 PM": "",
+    "7 PM": "",
+    "8 PM": "",
+    "9 PM": "",
+    "10 PM": "",
   };
   
   $(document).ready(function(){
@@ -58,6 +63,11 @@ let workDay = {
       case "3 PM": return 15;
       case "4 PM": return 16;
       case "5 PM": return 17;
+      case "6 PM": return 18;
+      case "7 PM": return 19;
+      case "8 PM": return 20;
+      case "9 PM": return 21;
+      case "10 PM": return 22;
     }
   }
   
