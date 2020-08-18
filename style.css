@@ -41,7 +41,7 @@ button {
 
 .page-footer {
   text-align: center;
-  background: rgb(20, 235, 199);
+  background: lightpink;
   font-size: 1rem;
   color: var(--text_light);
   margin-top: 40px;
